@@ -1,1 +1,1 @@
-**BlogUpdate - demo_blogs webpage**
+# BlogUpdate - demo_blogs webpage
