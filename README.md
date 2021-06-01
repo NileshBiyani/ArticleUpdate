@@ -1,1 +1,1 @@
-# BlogUpdate_db_Json
+#BlogUpdate - demo blogs page
